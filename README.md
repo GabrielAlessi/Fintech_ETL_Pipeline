@@ -260,7 +260,7 @@ Cientista de Dados Sênior
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--alessi--naumann-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-alessi-naumann/)
 [![GitHub](https://img.shields.io/badge/GitHub-GabrielAlessi-181717?style=flat&logo=github)](https://github.com/GabrielAlessi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-gabrielalessinaumann-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/gabrielalessinaumann)
+[![Kaggle](https://img.shields.io/badge/Kaggle-gabrielalessinaumann-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/gabrielalessinaumann)](https://www.kaggle.com/code/gabrielalessinaumann/fintech-etl-pipeline)
 
 ---
 
